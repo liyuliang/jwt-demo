@@ -1,0 +1,6 @@
+package: jwt
+import:
+- package: github.com/dgrijalva/jwt-go
+  version: v3.2.0
+- package: github.com/gin-gonic/gin
+  version: v1.4.0
